@@ -20,3 +20,6 @@
 /spring/*.pid
 
 /.vscode
+
+# Ignore uploaded test images.
+/public/uploads
